@@ -1,0 +1,235 @@
+{
+  "users": [
+    {
+      "id": "usr-1",
+      "username": "admin",
+      "role": "admin",
+      "createdAt": "2026-09-15T19:23:04.257Z"
+    },
+    {
+      "id": "usr-2",
+      "username": "guest_user",
+      "role": "user",
+      "createdAt": "2026-09-15T19:23:04.257Z"
+    }
+  ],
+  "history": [
+    {
+      "id": "dl-1789500210915-426",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "title": "Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)",
+      "platform": "YouTube",
+      "mode": "video",
+      "quality": "720p",
+      "status": "completed",
+      "size": "11.3 MB",
+      "duration": "03:33",
+      "fps": 30,
+      "codec": "h264",
+      "audioCodec": "aac",
+      "thumbnailUrl": "https://i.ytimg.com/vi_webp/dQw4w9WgXcQ/maxresdefault.webp",
+      "downloadUrl": "https://rr3---sn-npoe7nez.googlevideo.com/videoplayback?expire=1789521806&ei=Lpupas3hM-CHssUP7NmXsAc&ip=2600%3A1900%3A0%3A3e03%3A%3A1701&id=o-AGLMbUNjO_Rf-RXnIznp_7tuT0yeei3Nl9U5F-mysB8S&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&cps=912&met=1789500206%2C&mh=7c&mm=18%2C29&mn=sn-npoe7nez%2Csn-npoeenl7&ms=aub%2Crdu&mv=u&mvi=3&pl=64&rms=aub%2Caub&bui=AR3QkAkKs00C_l-PgFu0_iK4nz5m1kdBlWo_GdOLPlOBl9mHdvm98k0Goln2p1JHLp1M4zYxYmLwmv2U&spc=I-rgId1V-PkeDnO6ouujytRGy4zYHlB8OzPMcYCbnNLuq-Xt9MB6842IzTzHbRkklJotFrJt&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=213.089&lmt=1766960953317159&mt=1789499583&fvip=5&fexp=51565116%2C52178455&c=ANDROID&txp=5538534&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRQIhAJTQx1HDFvbfHLB1amXRW1_tsQMVEJmSqfhLdVqScEcrAiBpgKZh850gW3MJyGtSEtxtDbVrLDt107L99qyy41yS_g%3D%3D&lsparams=cps%2Cmet%2Cmh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpl%2Crms&lsig=APaTxxMwRAIgWIS4bpkJHf3ESeN2HiddXOlXiSS_iPJLgM9J6g8yQ1sCIFLpWmqteOD8TRB46RAUxqFY7eenyP2Rn5I6cHhuK0jZ",
+      "proxyDownloadUrl": "/api/proxy-download?url=https%3A%2F%2Frr3---sn-npoe7nez.googlevideo.com%2Fvideoplayback%3Fexpire%3D1789521806%26ei%3DLpupas3hM-CHssUP7NmXsAc%26ip%3D2600%253A1900%253A0%253A3e03%253A%253A1701%26id%3Do-AGLMbUNjO_Rf-RXnIznp_7tuT0yeei3Nl9U5F-mysB8S%26itag%3D18%26source%3Dyoutube%26requiressl%3Dyes%26xpc%3DEgVo2aDSNQ%253D%253D%26cps%3D912%26met%3D1789500206%252C%26mh%3D7c%26mm%3D18%252C29%26mn%3Dsn-npoe7nez%252Csn-npoeenl7%26ms%3Daub%252Crdu%26mv%3Du%26mvi%3D3%26pl%3D64%26rms%3Daub%252Caub%26bui%3DAR3QkAkKs00C_l-PgFu0_iK4nz5m1kdBlWo_GdOLPlOBl9mHdvm98k0Goln2p1JHLp1M4zYxYmLwmv2U%26spc%3DI-rgId1V-PkeDnO6ouujytRGy4zYHlB8OzPMcYCbnNLuq-Xt9MB6842IzTzHbRkklJotFrJt%26vprv%3D1%26svpuc%3D1%26mime%3Dvideo%252Fmp4%26rqh%3D1%26cnr%3D14%26ratebypass%3Dyes%26dur%3D213.089%26lmt%3D1766960953317159%26mt%3D1789499583%26fvip%3D5%26fexp%3D51565116%252C52178455%26c%3DANDROID%26txp%3D5538534%26sparams%3Dexpire%252Cei%252Cip%252Cid%252Citag%252Csource%252Crequiressl%252Cxpc%252Cbui%252Cspc%252Cvprv%252Csvpuc%252Cmime%252Crqh%252Ccnr%252Cratebypass%252Cdur%252Clmt%26sig%3DAE0s2JYwRQIhAJTQx1HDFvbfHLB1amXRW1_tsQMVEJmSqfhLdVqScEcrAiBpgKZh850gW3MJyGtSEtxtDbVrLDt107L99qyy41yS_g%253D%253D%26lsparams%3Dcps%252Cmet%252Cmh%252Cmm%252Cmn%252Cms%252Cmv%252Cmvi%252Cpl%252Crms%26lsig%3DAPaTxxMwRAIgWIS4bpkJHf3ESeN2HiddXOlXiSS_iPJLgM9J6g8yQ1sCIFLpWmqteOD8TRB46RAUxqFY7eenyP2Rn5I6cHhuK0jZ&title=Rick%20Astley%20-%20Never%20Gonna%20Give%20You%20Up%20(Official%20Video)%20(4K%20Remaster)",
+      "createdAt": "2026-09-15T19:23:30.915Z",
+      "processingTimeMs": 6075,
+      "downloadSpeed": "12.4 MB/s"
+    },
+    {
+      "id": "dl-1",
+      "url": "https://www.tiktok.com/@khaby.lame/video/1234567890",
+      "title": "Khaby Lame - Life hacks debunked series #18",
+      "platform": "TikTok",
+      "mode": "video",
+      "quality": "1080p",
+      "status": "completed",
+      "size": "14.2 MB",
+      "duration": "00:45",
+      "fps": 30,
+      "codec": "h264",
+      "audioCodec": "aac",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1611162617213-7d7a39e9b1d7?w=150",
+      "downloadUrl": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_5mb.mp4",
+      "createdAt": "2026-09-15T17:23:04.257Z",
+      "processingTimeMs": 1450,
+      "downloadSpeed": "12.4 MB/s"
+    },
+    {
+      "id": "dl-2",
+      "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "title": "Rick Astley - Never Gonna Give You Up (Video)",
+      "platform": "YouTube",
+      "mode": "video",
+      "quality": "720p",
+      "status": "completed",
+      "size": "18.4 MB",
+      "duration": "03:32",
+      "fps": 24,
+      "codec": "vp9",
+      "audioCodec": "opus",
+      "thumbnailUrl": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=150",
+      "downloadUrl": "https://sample-videos.com/video321/mp4/720/big_buck_bunny_720p_5mb.mp4",
+      "createdAt": "2026-09-15T15:23:04.257Z",
+      "processingTimeMs": 2100,
+      "downloadSpeed": "8.4 MB/s"
+    }
+  ],
+  "logs": [
+    {
+      "id": "log-1",
+      "timestamp": "2026-09-15T19:23:04.257Z",
+      "level": "success",
+      "message": "Database initialized successfully."
+    },
+    {
+      "id": "log-2",
+      "timestamp": "2026-09-15T19:23:04.257Z",
+      "level": "info",
+      "message": "Cyber-Dark telemetry server online."
+    },
+    {
+      "id": "log-1789500184261-668",
+      "timestamp": "2026-09-15T19:23:04.261Z",
+      "level": "info",
+      "message": "Vite development pipeline binding..."
+    },
+    {
+      "id": "log-1789500184558-809",
+      "timestamp": "2026-09-15T19:23:04.558Z",
+      "level": "success",
+      "message": "UltraProMax server cluster fully online. Listening on port 3000"
+    },
+    {
+      "id": "log-1789500194921-365",
+      "timestamp": "2026-09-15T19:23:14.921Z",
+      "level": "info",
+      "message": "Attempting DNS lookup for: google.com"
+    },
+    {
+      "id": "log-1789500194957-728",
+      "timestamp": "2026-09-15T19:23:14.957Z",
+      "level": "success",
+      "message": "DoH Resolved [google.com] -> 172.253.118.139"
+    },
+    {
+      "id": "log-1789500200783-848",
+      "timestamp": "2026-09-15T19:23:20.783Z",
+      "level": "info",
+      "message": "Performing IP lookup on: [8.8.8.8]"
+    },
+    {
+      "id": "log-1789500200821-48",
+      "timestamp": "2026-09-15T19:23:20.821Z",
+      "level": "success",
+      "message": "IP lookup successful (ipwho.is): [8.8.8.8] -> San Jose"
+    },
+    {
+      "id": "log-1789500202703-376",
+      "timestamp": "2026-09-15T19:23:22.703Z",
+      "level": "success",
+      "message": "Phone analyzed: [+62 812 3456 789] Carrier=Telkomsel (kartuHALO / simPATI / KARTU As / Loop / by.U)"
+    },
+    {
+      "id": "log-1789500204840-661",
+      "timestamp": "2026-09-15T19:23:24.840Z",
+      "level": "info",
+      "message": "Dispatched pipeline request: mode=Video 720 target=https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
+      "id": "log-1789500204841-605",
+      "timestamp": "2026-09-15T19:23:24.841Z",
+      "level": "info",
+      "message": "Engaging local yt-dlp extractor engine for YouTube..."
+    },
+    {
+      "id": "log-1789500210915-321",
+      "timestamp": "2026-09-15T19:23:30.915Z",
+      "level": "success",
+      "message": "Direct extraction successful via local yt-dlp!"
+    },
+    {
+      "id": "log-1789500210915-651",
+      "timestamp": "2026-09-15T19:23:30.915Z",
+      "level": "success",
+      "message": "Pipeline extraction completed. Media: \"Rick Astley - Never Gonna Give You Up (Official Video) (4K Remaster)\", Size: 11.3 MB"
+    },
+    {
+      "id": "log-1789500214567-900",
+      "timestamp": "2026-09-15T19:23:34.567Z",
+      "level": "info",
+      "message": "Dispatched pipeline request: mode=Video 720 target=https://www.tiktok.com/@tiktok/video/7106594312292453678"
+    },
+    {
+      "id": "log-1789500214567-836",
+      "timestamp": "2026-09-15T19:23:34.567Z",
+      "level": "info",
+      "message": "Engaging primary TikWM dedicated engine for TikTok..."
+    },
+    {
+      "id": "log-1789500217353-935",
+      "timestamp": "2026-09-15T19:23:37.353Z",
+      "level": "info",
+      "message": "Engaging local yt-dlp extractor engine for TikTok..."
+    },
+    {
+      "id": "log-1789500219045-387",
+      "timestamp": "2026-09-15T19:23:39.045Z",
+      "level": "warn",
+      "message": "yt-dlp extraction fallback encountered: Command failed: /usr/local/bin/yt-dlp -g -f best[height<=720]/best --no-playlist --no-warnings --socket-timeout 10 --extractor-args youtube:player_client=android,ios,web https://www.tiktok.com/@tiktok/video/7106594312292453678\nDeprecated Feature: Support for Python version 3.10 has been deprecated. Please update to Python 3.11 or above\nERROR: [TikTok] 7106594312292453678: Unexpected response from webpage request; please report this issue on  https://github.com/yt-dlp/yt-dlp/issues?q= , filling out the appropriate issue template. Confirm you are on the latest version using  yt-dlp -U\n"
+    },
+    {
+      "id": "log-1789500219716-949",
+      "timestamp": "2026-09-15T19:23:39.717Z",
+      "level": "info",
+      "message": "Attempting extraction via node [https://api.cobalt.tools]..."
+    },
+    {
+      "id": "log-1789500220059-818",
+      "timestamp": "2026-09-15T19:23:40.059Z",
+      "level": "info",
+      "message": "Attempting extraction via node [https://cobalt.api.ryboflaj.net]..."
+    },
+    {
+      "id": "log-1789500220070-560",
+      "timestamp": "2026-09-15T19:23:40.070Z",
+      "level": "info",
+      "message": "Attempting extraction via node [https://api.cobalt.sh]..."
+    },
+    {
+      "id": "log-1789500220162-855",
+      "timestamp": "2026-09-15T19:23:40.162Z",
+      "level": "error",
+      "message": "Media pipeline failed: Extraction engines could not parse a direct streaming link for target."
+    }
+  ],
+  "apiKeys": [
+    {
+      "id": "key-1",
+      "key": "UPM_CYBER_ACC_A9F82",
+      "name": "Production Main App",
+      "clicks": 42,
+      "limit": 1000,
+      "status": "active",
+      "createdAt": "2026-09-15T19:23:04.257Z"
+    },
+    {
+      "id": "key-2",
+      "key": "UPM_DEV_STAGING_X2B1",
+      "name": "Staging Environment",
+      "clicks": 5,
+      "limit": 100,
+      "status": "active",
+      "createdAt": "2026-09-15T19:23:04.257Z"
+    }
+  ],
+  "analytics": {
+    "bandwidthBytes": 1556889779.2,
+    "totalVisits": 254,
+    "platformClicks": {
+      "TikTok": 28,
+      "YouTube": 16,
+      "Instagram": 22,
+      "Facebook": 8,
+      "Twitter/X": 12
+    }
+  }
+}

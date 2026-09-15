@@ -1,0 +1,6 @@
+{
+  "name": "UltraProMax",
+  "description": "Universal Video Downloader & Advanced Network Tools with IP lookup, phone analysis, and hostname resolution.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
